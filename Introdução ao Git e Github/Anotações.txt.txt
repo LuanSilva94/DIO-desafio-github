@@ -1,0 +1,2 @@
+Link comandos git: https://www.codigofonte.com.br/artigos/top-25-comandos-do-git
+Link comandos Linux: https://kinsta.com/pt/blog/comandos-linux/
